@@ -1,0 +1,18 @@
+﻿<flash_project name="Jap lesson" version="1">
+    <project_file path="./main.as" filetype="as" />
+    <project_file path="./Hiragana.as" filetype="as" />
+    <project_file path="./Charater.as" filetype="as" />
+    <project_file path="./textButton.as" filetype="as" />
+    <project_file path="./hiragana.xml" filetype="xml" />
+    <project_file path="./tableTab.as" filetype="as" />
+    <project_file path="./tableViewer.as" filetype="as" />
+    <project_file path="./SelectButton.as" filetype="as" />
+    <project_file path="./lessonOptions.as" filetype="as" />
+    <project_file path="./tabButton.as" filetype="as" />
+    <project_file path="./dialog.as" filetype="as" />
+    <project_file path="./Katakana.as" filetype="as" />
+    <project_file path="./randCharLesson.as" filetype="as" />
+    <project_file path="./lessonSetup.as" filetype="as" />
+    <project_file path="./japlesson.fla" filetype="fla" profile="" />
+    <project_file path="./HiraganaClean.as" filetype="as" />
+</flash_project>
